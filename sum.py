@@ -1,4 +1,5 @@
-a = int(input(''))
-b = int(input(''))
+a = 1
+b = 99
 
 print("Sum: ",a+b)
+
